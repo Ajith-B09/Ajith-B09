@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ajith-B09(Ajith B)
+- 👋 Hi, I’m @Ajith-B09 (Ajith B)
 - 👀 I’m interested in data ananlysis and data science.
 - 🌱 I’m currently learning Python,MySQL,Power BI,Statistics.
 - 💞️ I’m looking to collaborate on ...
